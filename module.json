@@ -12,5 +12,5 @@
 	"readme": "https://raw.githubusercontent.com/matthewdbradley/Foundry-TrueRNG/master/README.md",
 	"url": "https://github.com/matthewdbradley/Foundry-TrueRNG",
 	"manifest": "https://raw.githubusercontent.com/matthewdbradley/Foundry-TrueRNG/master/module.json",
-	"download": "https://github.com/kidfearless/Foundry-TrueRNG/archive/refs/tags/v1.0.6.zip"
+	"download": "https://github.com/matthewdbradley/Foundry-TrueRNG/archive/refs/heads/master.zip"
 }
