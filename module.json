@@ -9,8 +9,9 @@
 	"esmodules": [
 		"dist/TrueRNG.js"
 	],
-	"readme": "https://raw.githubusercontent.com/matthewdbradley/Foundry-TrueRNG/master/README.md",
-	"url": "https://github.com/matthewdbradley/Foundry-TrueRNG",
-	"manifest": "https://raw.githubusercontent.com/matthewdbradley/Foundry-TrueRNG/master/module.json",
-	"download": "https://github.com/matthewdbradley/Foundry-TrueRNG/archive/refs/heads/master.zip"
+	"readme": "https://raw.githubusercontent.com/kidfearless/Foundry-TrueRNG/master/README.md",
+	"bugs": "https://github.com/kidfearless/Foundry-TrueRNG/issues",
+	"url": "https://github.com/kidfearless/Foundry-TrueRNG",
+	"manifest": "https://raw.githubusercontent.com/kidfearless/Foundry-TrueRNG/master/module.json",
+	"download": "https://github.com/kidfearless/Foundry-TrueRNG/archive/refs/heads/master.zip"
 }
